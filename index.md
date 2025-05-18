@@ -1,7 +1,8 @@
-<!--
-  README.md for ergin…/ergincagataycankaya
-  -> renders at https://ergincagataycankaya.github.io/
--->
+---
+layout: page
+title: "Ergin Çağatay Çankaya"
+permalink: /
+---
 
 <div align="center">
 

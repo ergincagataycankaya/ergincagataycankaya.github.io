@@ -1,9 +1,26 @@
 # _config.yml
-title: Ergin C. Cankaya
-description: "Ph.D. Candidate, Remote Sensing & LiDAR in Forest Growth Models"
+title: Ergin Çağatay Çankaya  
+email: ergin@ualberta.ca  
+description: >  
+  PhD Candidate @ University of Alberta | Forest growth models, remote sensing & LiDAR  
+baseurl: ""        # no sub-path
 url: "https://ergincagataycankaya.github.io"
-baseurl: "/ergincagataycankaya"  # your repo name
-theme: academicpages  # or you can pick: minima, jekyll-theme-cayman, etc.
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+
+# choose the built-in minima theme
+theme: minima
+
+# include folders so Jekyll will copy them straight through
+include:
+  - cv
+  - assets
+
+# where your markdown pages live
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Build settings
+markdown: kramdown
