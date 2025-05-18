@@ -1,0 +1,9 @@
+# _config.yml
+title: Ergin C. Cankaya
+description: "Ph.D. Candidate, Remote Sensing & LiDAR in Forest Growth Models"
+url: "https://ergincagataycankaya.github.io"
+baseurl: "/ergincagataycankaya"  # your repo name
+theme: academicpages  # or you can pick: minima, jekyll-theme-cayman, etc.
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
