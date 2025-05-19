@@ -23,7 +23,7 @@ PhD Candidate @ University of Alberta | Forest Growth Modelling • LiDAR • Re
 
 <p align="center">
   <a href="http://tuoe.me:3838/" target="_blank">
-    <img src="/assets/images/img_2.jpg" alt="UOE Dashboard Preview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);" />
+    <img src="/assets/images/img_1.jpg" alt="UOE Dashboard Preview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);" />
   </a>
 </p>
 
