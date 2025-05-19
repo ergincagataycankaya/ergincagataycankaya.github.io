@@ -107,7 +107,7 @@ This interactive platform visualizes and analyzes spatial and tabular data from 
 - 📧 ergin@ualberta.ca  
 - 🔗 [LinkedIn][linkedin]  
 - 🌐 [Personal Website](https://ergincagataycankaya.github.io/)  
-- 📄 [Download CV (PDF)](/assets/docs/Ergin_Cankaya_CV.pdf)
+- 📄 [Download CV (PDF)](/cv/Ergin_Cankaya_CV.pdf)
 
 ---
 
