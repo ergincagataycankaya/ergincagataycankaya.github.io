@@ -1,15 +1,8 @@
 ---
 layout: page
-title: "Ergin Çağatay Çankaya"
+title: "Ergin C. Cankaya"
 permalink: /
 ---
-
-<p align="center">
-  <a href="http://tuoe.me:3838/" target="_blank">
-    <img src="/assets/images/img_2.jpg" alt="UOE Dashboard Preview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);" />
-  </a>
-</p>
-
 
 # 👋 Ergin Çağatay Çankaya  
 **Forest Data Scientist | LiDAR Specialist | Remote Sensing Researcher**
@@ -27,6 +20,12 @@ PhD Candidate @ University of Alberta | Forest Growth Modelling • LiDAR • Re
 🚀 **[National Forest Inventory Decision Support System (UOE DSS)](http://tuoe.me:3838/)**  
 📍 Developed using RShiny, Leaflet, Plotly, and Docker  
 ☁️ Hosted on Microsoft Azure  
+
+<p align="center">
+  <a href="http://tuoe.me:3838/" target="_blank">
+    <img src="/assets/images/img_2.jpg" alt="UOE Dashboard Preview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);" />
+  </a>
+</p>
 
 This interactive platform visualizes and analyzes spatial and tabular data from Turkey’s National Forest Inventory (UOE). It integrates diverse datasets — including tree metrics, biomass, understory, soil, and carbon — into an accessible decision support tool for forest managers, researchers, and policy-makers.
 
