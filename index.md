@@ -4,7 +4,7 @@ title: "Ergin C. Cankaya"
 permalink: /
 ---
 
-# 👋 Ergin Çağatay Çankaya  
+# 👋 Ergin C. Cankaya  
 **Forest Data Scientist | LiDAR Specialist | Remote Sensing Researcher**
 
 [![University of Alberta][ualberta-badge]][ualberta]  
