@@ -20,8 +20,6 @@ PhD Candidate @ University of Alberta | Forest Growth Modelling • LiDAR • Re
 [![Profile Views][views-shield]][your-profile]  
 [![ORCID][orcid-shield]][orcid] [![Google Scholar][gscholar-shield]][gscholar] [![LinkedIn][linkedin-shield]][linkedin]
 
-</div>
-
 ---
 
 ## 🌟 Featured Project
