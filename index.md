@@ -11,7 +11,8 @@ permalink: /
 </p>
 
 
-# 👋 Hi, I’m Ergin Çağatay Çankaya
+# 👋 Ergin Çağatay Çankaya  
+**Forest Data Scientist | LiDAR Specialist | Remote Sensing Researcher**
 
 [![University of Alberta][ualberta-badge]][ualberta]  
 PhD Candidate @ University of Alberta | Forest Growth Modelling • LiDAR • Remote Sensing • RShiny
@@ -109,6 +110,7 @@ This interactive platform visualizes and analyzes spatial and tabular data from 
 - 📧 ergin@ualberta.ca  
 - 🔗 [LinkedIn][linkedin]  
 - 🌐 [Personal Website](https://ergincagataycankaya.github.io/)  
+- 📄 [Download CV (PDF)](/assets/docs/ErginCankaya_CV.pdf)
 
 ---
 
@@ -130,3 +132,4 @@ _“Nearly all my work is open source—feel free to explore and contribute!”_
 [linkedin]: https://linkedin.com/in/ergincagataycankaya  
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Ergin%20%C3%87ankaya-0A66C2?logo=linkedin  
 [cv]: https://ergincagataycankaya.github.io/
+
