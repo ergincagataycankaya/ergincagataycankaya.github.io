@@ -4,7 +4,12 @@ title: "Ergin Çağatay Çankaya"
 permalink: /
 ---
 
-<div align="center">
+<p align="center">
+  <a href="http://tuoe.me:3838/" target="_blank">
+    <img src="/assets/images/uoe_dashboard_preview.gif" alt="UOE Dashboard Preview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);" />
+  </a>
+</p>
+
 
 # 👋 Hi, I’m Ergin Çağatay Çankaya
 
