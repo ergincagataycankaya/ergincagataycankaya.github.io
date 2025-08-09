@@ -5,12 +5,14 @@ permalink: /
 ---
 
 # 👋 Ergin C. Cankaya  
-**Forest Data Scientist | LiDAR Specialist | Remote Sensing Researcher**
+**Forest Data Scientist · LiDAR Specialist · Remote Sensing Researcher**
 
-[![University of Alberta][ualberta-badge]][ualberta]  
+[![University of Alberta][ualberta-badge]][ualberta]
 PhD Candidate @ University of Alberta | Forest Growth Modelling • LiDAR • Remote Sensing • RShiny
 
-[![Profile Views][views-shield]][your-profile]  
+I am a PhD candidate in Forest Biology and Management at the University of Alberta. My research investigates how motion-space dynamics and LiDAR-derived metrics can be fused to model forest structure and support evidence-based management.
+
+[![Profile Views][views-shield]][your-profile]
 [![ORCID][orcid-shield]][orcid] [![Google Scholar][gscholar-shield]][gscholar] [![LinkedIn][linkedin-shield]][linkedin]
 
 ---
@@ -28,6 +30,15 @@ PhD Candidate @ University of Alberta | Forest Growth Modelling • LiDAR • Re
 </p>
 
 This interactive platform visualizes and analyzes spatial and tabular data from Turkey’s National Forest Inventory (UOE). It integrates diverse datasets — including tree metrics, biomass, understory, soil, and carbon — into an accessible decision support tool for forest managers, researchers, and policy-makers.
+
+## 🔬 LiDAR & Motion-Space Visualization
+
+<p align="center">
+  <img src="/assets/images/img_1.jpg" alt="Motion-space dynamics overlay" width="45%" style="border-radius:8px;margin-right:1%;" />
+  <img src="/assets/images/img_2.jpg" alt="LiDAR-derived forest structure" width="45%" style="border-radius:8px;margin-left:1%;" />
+</p>
+
+<p align="center"><em>Composite visualization integrating motion-space trajectories with LiDAR point clouds to highlight complex forest structure.</em></p>
 
 ---
 
