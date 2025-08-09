@@ -1,26 +1,47 @@
 # _config.yml
-title: Ergin C. Cankaya  
-email: ergin@ualberta.ca  
-description: >  
-  PhD Candidate @ University of Alberta | Forest growth models, remote sensing & LiDAR  
-baseurl: ""        # no sub-path
+title: Ergin C. Cankaya
+email: ergin@ualberta.ca
+description: >
+  PhD Candidate @ University of Alberta | Forest growth models, remote sensing & LiDAR
+baseurl: ""
 url: "https://ergincagataycankaya.github.io"
 
-# choose the built-in minima theme
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-scholar
 
-# include folders so Jekyll will copy them straight through
 include:
   - cv
   - assets
 
-# where your markdown pages live
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
-      layout: "default"
+      layout: "single"
 
-# Build settings
 markdown: kramdown
+
+author:
+  name: "Ergin C. Cankaya"
+  avatar: "/assets/images/headshot.jpg"
+  bio: "PhD Candidate @ University of Alberta"
+  location: "Edmonton, Canada"
+  links:
+    - label: "Email"
+      url: "mailto:ergin@ualberta.ca"
+      icon: "fas fa-envelope"
+    - label: "GitHub"
+      url: "https://github.com/ergincagataycankaya"
+      icon: "fab fa-github"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=0uLZ3mEAAAAJ&hl=en&authuser=2"
+      icon: "ai ai-google-scholar"
+    - label: "LinkedIn"
+      url: "https://linkedin.com/in/ergincagataycankaya"
+      icon: "fab fa-linkedin"
